@@ -1,0 +1,14 @@
+img{
+	width:250px;
+	height:210px;
+}
+td{
+	text-align:center; 
+	font-family: 微軟正黑體;
+	font-size: 17px;
+}
+tr{
+	text-align: center;
+	font-family: 微軟正黑體;
+	font-weight: bolder;
+}

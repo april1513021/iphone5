@@ -1,0 +1,95 @@
+.col-11
+{
+position:absolute;
+float:left;
+left:150px;
+top:150px;
+border: dashed;
+height: 600px;
+}
+td{
+position: relative;
+top: 70px;
+left:100px;
+color: #A5A552;
+font-size: 21px;
+font-family: 微軟正黑體;
+padding-right: 80px; 
+
+}
+tr{
+	border-bottom: 1px black solid;
+	
+}
+.text{
+	border-bottom: 1px;
+	line-height:40px;
+   font-weight: bolder;
+}
+
+.title{
+	position: relative;
+    top: 50px;
+	font-family: 微軟正黑體;
+	font-size: 40px;
+	color: #808040;
+	text-align: center;
+
+}
+.sidebar {
+ font-family: 微軟正黑體;
+  height: 750px;
+  width: 200px;
+  position: relative;
+  z-index: 1;
+  top: 130px;
+  left: -180px;
+  background-color: #D2BBA0;
+  padding-top: 16px;
+}
+
+.sidebar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #818181;
+  display: block;
+}
+
+.sidebar a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 160px; /* Same as the width of the sidenav */
+  padding: 0px 10px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidebar {padding-top: 15px;}
+  .sidebar a {font-size: 18px;}
+}
+.imgtop1{
+	position: relative;
+	left: 30px; 
+
+}
+.tit{
+	position: relative;
+	font-size: 40px;
+	top:780px;
+}
+.foot{
+	position: relative;
+	background-color: #9F7E69;
+	height: 100px;
+	top:-;
+	font-family: impact;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+}
+.col-1
+{
+	height: 900px;
+}

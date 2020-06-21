@@ -1,0 +1,55 @@
+.signin{
+	border-style: groove;
+	border-width: 3px;
+	border-radius: 10px;
+	width: 420px;
+	height: 480px;
+	position: absolute;
+	left:800px;
+	top:200px;
+    background-color: white;
+}
+form{
+    text-align: center;
+}
+h1{
+	text-align: center;
+	font-family: Impact;
+    padding-top:100px;
+    color: black;
+}
+button{
+	border-radius: 10px;
+	padding: 5px;
+}
+button:hover{
+	border-radius: 10px;
+	padding: 5px;
+	color: red;
+	border-color: blue;
+}
+.inputbox{
+	border-radius: 10px;
+	padding: 3px;
+}
+body{
+	background-color: #DEDEBE;
+}
+footer{
+	background: white;
+	position: relative;
+	top:800px;
+	font-family: impact;
+	text-align: center;
+}
+.logo{
+	width:165px;
+	height:130px;
+}
+.signinphoto{
+    width:800px;
+	height:520px;
+	position: absolute;
+	left:-100px;
+	top:180px;
+}
